@@ -1,162 +1,162 @@
-#,key#,piano_note,order,octave,name,sound/score_filename,keyboard_filename,clef,t_rest,root_t_note,octave_Δ,b,treble_note,octave_rest,-1Δ,0Δ,1Δ,treble_octaves,,b_rest,root_b_note,octave_Δ,b,bass_note,octave_rest,-1Δ,0Δ,1Δ,bass_octaves
-,,,,,,000#-key00#-octave0-clef-piano_note,octave0-piano_note,,,,,,,,,,,,,,,,,,,,,,
-1,1,A0,4,0,A0,001-01-0-bass-A0,0-A0,bass,,,,,r2,,,,,r1,,r4,a,",,,",4,"r4 a,,,4",r4,"a,4","a,,4","a,,,4","r4 a,4 a,,4 a,,,4"
-2,2,A0#,4,0,A0#,002-02-0-bass-A0#,0-A0#,bass,,,,,r2,,,,,r1,,r4,ais,",,,",4,"r4 ais,,,4",r4,"ais,4","ais,,4","ais,,,4","r4 ais,4 ais,,4 ais,,,4"
-4,2,B0b,4,0,B0b,004-02-0-bass-B0b,0-B0b,bass,,,,,r2,,,,,r1,,r4,bes,",,,",4,"r4 bes,,,4",r4,"bes,4","bes,,4","bes,,,4","r4 bes,4 bes,,4 bes,,,4"
-3,3,B0,4,0,B0,003-03-0-bass-B0,0-B0,bass,,,,,r2,,,,,r1,,r4,b,",,,",4,"r4 b,,,4",r4,"b,4","b,,4","b,,,4","r4 b,4 b,,4 b,,,4"
-5,4,C1,4,1,C1,005-04-1-bass-C1,1-C1,bass,,,,,r2,,,,,r1,,r4,c,",,",4,"r4 c,,4",r4,c4,"c,4","c,,4","r4 c4 c,4 c,,4"
-6,5,C1#,4,1,C1#,006-05-1-bass-C1#,1-C1#,bass,,,,,r2,,,,,r1,,r4,cis,",,",4,"r4 cis,,4",r4,cis4,"cis,4","cis,,4","r4 cis4 cis,4 cis,,4"
-9,5,D1b,4,1,D1b,009-05-1-bass-D1b,1-D1b,bass,,,,,r2,,,,,r1,,r4,des,",,",4,"r4 des,,4",r4,des4,"des,4","des,,4","r4 des4 des,4 des,,4"
-7,6,D1,4,1,D1,007-06-1-bass-D1,1-D1,bass,,,,,r2,,,,,r1,,r4,d,",,",4,"r4 d,,4",r4,d4,"d,4","d,,4","r4 d4 d,4 d,,4"
-8,7,D1#,4,1,D1#,008-07-1-bass-D1#,1-D1#,bass,,,,,r2,,,,,r1,,r4,dis,",,",4,"r4 dis,,4",r4,dis4,"dis,4","dis,,4","r4 dis4 dis,4 dis,,4"
-11,7,E1b,4,1,E1b,011-07-1-bass-E1b,1-E1b,bass,,,,,r2,,,,,r1,,r4,ees,",,",4,"r4 ees,,4",r4,ees4,"ees,4","ees,,4","r4 ees4 ees,4 ees,,4"
-10,8,E1,4,1,E1,010-08-1-bass-E1,1-E1,bass,,,,,r2,,,,,r1,,r4,e,",,",4,"r4 e,,4",r4,e4,"e,4","e,,4","r4 e4 e,4 e,,4"
-12,9,F1,4,1,F1,012-09-1-bass-F1,1-F1,bass,,,,,r2,,,,,r1,,r4,f,",,",4,"r4 f,,4",r4,f4,"f,4","f,,4","r4 f4 f,4 f,,4"
-13,10,F1#,4,1,F1#,013-10-1-bass-F1#,1-F1#,bass,,,,,r2,,,,,r1,,r4,fis,",,",4,"r4 fis,,4",r4,fis4,"fis,4","fis,,4","r4 fis4 fis,4 fis,,4"
-16,10,G1b,4,1,G1b,016-10-1-bass-G1b,1-G1b,bass,,,,,r2,,,,,r1,,r4,ges,",,",4,"r4 ges,,4",r4,ges4,"ges,4","ges,,4","r4 ges4 ges,4 ges,,4"
-14,11,G1,4,1,G1,014-11-1-bass-G1,1-G1,bass,,,,,r2,,,,,r1,,r4,g,",,",4,"r4 g,,4",r4,g4,"g,4","g,,4","r4 g4 g,4 g,,4"
-15,12,G1#,4,1,G1#,015-12-1-bass-G1#,1-G1#,bass,,,,,r2,,,,,r1,,r4,gis,",,",4,"r4 gis,,4",r4,gis4,"gis,4","gis,,4","r4 gis4 gis,4 gis,,4"
-19,12,A1b,4,1,A1b,019-12-1-bass-A1b,1-A1b,bass,,,,,r2,,,,,r1,,r4,aes,",,",4,"r4 aes,,4",r4,aes4,"aes,4","aes,,4","r4 aes4 aes,4 aes,,4"
-17,13,A1,4,1,A1,017-13-1-bass-A1,1-A1,bass,,,,,r2,,,,,r1,,r4,a,",,",4,"r4 a,,4",r4,a4,"a,4","a,,4","r4 a4 a,4 a,,4"
-18,14,A1#,4,1,A1#,018-14-1-bass-A1#,1-A1#,bass,,,,,r2,,,,,r1,,r4,ais,",,",4,"r4 ais,,4",r4,ais4,"ais,4","ais,,4","r4 ais4 ais,4 ais,,4"
-21,14,B1b,4,1,B1b,021-14-1-bass-B1b,1-B1b,bass,,,,,r2,,,,,r1,,r4,bes,",,",4,"r4 bes,,4",r4,bes4,"bes,4","bes,,4","r4 bes4 bes,4 bes,,4"
-20,15,B1,4,1,B1,020-15-1-bass-B1,1-B1,bass,,,,,r2,,,,,r1,,r4,b,",,",4,"r4 b,,4",r4,b4,"b,4","b,,4","r4 b4 b,4 b,,4"
-22,16,C2,2,2,C2,022-16-2-bass-C2,2-C2,bass,,,,,r2,,,,,r1,,r4,c,",",4,"r4 c,4",r4,"c,,4","c,4",c4,"r4 c,,4 c,4 c4"
-23,17,C2#,2,2,C2#,023-17-2-bass-C2#,2-C2#,bass,,,,,r2,,,,,r1,,r4,cis,",",4,"r4 cis,4",r4,"cis,,4","cis,4",cis4,"r4 cis,,4 cis,4 cis4"
-26,17,D2b,2,2,D2b,026-17-2-bass-D2b,2-D2b,bass,,,,,r2,,,,,r1,,r4,des,",",4,"r4 des,4",r4,"des,,4","des,4",des4,"r4 des,,4 des,4 des4"
-24,18,D2,2,2,D2,024-18-2-bass-D2,2-D2,bass,,,,,r2,,,,,r1,,r4,d,",",4,"r4 d,4",r4,"d,,4","d,4",d4,"r4 d,,4 d,4 d4"
-25,19,D2#,2,2,D2#,025-19-2-bass-D2#,2-D2#,bass,,,,,r2,,,,,r1,,r4,dis,",",4,"r4 dis,4",r4,"dis,,4","dis,4",dis4,"r4 dis,,4 dis,4 dis4"
-28,19,E2b,2,2,E2b,028-19-2-bass-E2b,2-E2b,bass,,,,,r2,,,,,r1,,r4,ees,",",4,"r4 ees,4",r4,"ees,,4","ees,4",ees4,"r4 ees,,4 ees,4 ees4"
-27,20,E2,2,2,E2,027-20-2-bass-E2,2-E2,bass,,,,,r2,,,,,r1,,r4,e,",",4,"r4 e,4",r4,"e,,4","e,4",e4,"r4 e,,4 e,4 e4"
-29,21,F2,2,2,F2,029-21-2-bass-F2,2-F2,bass,,,,,r2,,,,,r1,,r4,f,",",4,"r4 f,4",r4,"f,,4","f,4",f4,"r4 f,,4 f,4 f4"
-30,22,F2#,2,2,F2#,030-22-2-bass-F2#,2-F2#,bass,,,,,r2,,,,,r1,,r4,fis,",",4,"r4 fis,4",r4,"fis,,4","fis,4",fis4,"r4 fis,,4 fis,4 fis4"
-33,22,G2b,2,2,G2b,033-22-2-bass-G2b,2-G2b,bass,,,,,r2,,,,,r1,,r4,ges,",",4,"r4 ges,4",r4,"ges,,4","ges,4",ges4,"r4 ges,,4 ges,4 ges4"
-31,23,G2,2,2,G2,031-23-2-bass-G2,2-G2,bass,,,,,r2,,,,,r1,,r4,g,",",4,"r4 g,4",r4,"g,,4","g,4",g4,"r4 g,,4 g,4 g4"
-32,24,G2#,2,2,G2#,032-24-2-bass-G2#,2-G2#,bass,,,,,r2,,,,,r1,,r4,gis,",",4,"r4 gis,4",r4,"gis,,4","gis,4",gis4,"r4 gis,,4 gis,4 gis4"
-36,24,A2b,2,2,A2b,036-24-2-bass-A2b,2-A2b,bass,,,,,r2,,,,,r1,,r4,aes,",",4,"r4 aes,4",r4,"aes,,4","aes,4",aes4,"r4 aes,,4 aes,4 aes4"
-34,25,A2,2,2,A2,034-25-2-bass-A2,2-A2,bass,,,,,r2,,,,,r1,,r4,a,",",4,"r4 a,4",r4,"a,,4","a,4",a4,"r4 a,,4 a,4 a4"
-35,26,A2#,2,2,A2#,035-26-2-bass-A2#,2-A2#,bass,,,,,r2,,,,,r1,,r4,ais,",",4,"r4 ais,4",r4,"ais,,4","ais,4",ais4,"r4 ais,,4 ais,4 ais4"
-38,26,B2b,2,2,B2b,038-26-2-bass-B2b,2-B2b,bass,,,,,r2,,,,,r1,,r4,bes,",",4,"r4 bes,4",r4,"bes,,4","bes,4",bes4,"r4 bes,,4 bes,4 bes4"
-37,27,B2,2,2,B2,037-27-2-bass-B2,2-B2,bass,,,,,r2,,,,,r1,,r4,b,",",4,"r4 b,4",r4,"b,,4","b,4",b4,"r4 b,,4 b,4 b4"
-39,28,C3,3,3,C3,039-28-3-treble-C3,3-C3,treble,r4,c,,4,r4 c4,r4,"c,4",c4,c'4,"r4 c,4 c4 c'4",,,,,,r2,,,,,r1
-40,29,C3#,3,3,C3#,040-29-3-treble-C3#,3-C3#,treble,r4,cis,,4,r4 cis4,r4,"cis,4",cis4,cis'4,"r4 cis,4 cis4 cis'4",,,,,,r2,,,,,r1
-43,29,D3b,3,3,D3b,043-29-3-treble-D3b,3-D3b,treble,r4,des,,4,r4 des4,r4,"des,4",des4,des'4,"r4 des,4 des4 des'4",,,,,,r2,,,,,r1
-41,30,D3,3,3,D3,041-30-3-treble-D3,3-D3,treble,r4,d,,4,r4 d4,r4,"d,4",d4,d'4,"r4 d,4 d4 d'4",,,,,,r2,,,,,r1
-42,31,D3#,3,3,D3#,042-31-3-treble-D3#,3-D3#,treble,r4,dis,,4,r4 dis4,r4,"dis,4",dis4,dis'4,"r4 dis,4 dis4 dis'4",,,,,,r2,,,,,r1
-45,31,E3b,3,3,E3b,045-31-3-treble-E3b,3-E3b,treble,r4,ees,,4,r4 ees4,r4,"ees,4",ees4,ees'4,"r4 ees,4 ees4 ees'4",,,,,,r2,,,,,r1
-44,32,E3,3,3,E3,044-32-3-treble-E3,3-E3,treble,r4,e,,4,r4 e4,r4,"e,4",e4,e'4,"r4 e,4 e4 e'4",,,,,,r2,,,,,r1
-46,33,F3,3,3,F3,046-33-3-treble-F3,3-F3,treble,r4,f,,4,r4 f4,r4,"f,4",f4,f'4,"r4 f,4 f4 f'4",,,,,,r2,,,,,r1
-47,34,F3#,3,3,F3#,047-34-3-treble-F3#,3-F3#,treble,r4,fis,,4,r4 fis4,r4,"fis,4",fis4,fis'4,"r4 fis,4 fis4 fis'4",,,,,,r2,,,,,r1
-50,34,G3b,3,3,G3b,050-34-3-treble-G3b,3-G3b,treble,r4,ges,,4,r4 ges4,r4,"ges,4",ges4,ges'4,"r4 ges,4 ges4 ges'4",,,,,,r2,,,,,r1
-48,35,G3,3,3,G3,048-35-3-treble-G3,3-G3,treble,r4,g,,4,r4 g4,r4,"g,4",g4,g'4,"r4 g,4 g4 g'4",,,,,,r2,,,,,r1
-49,36,G3#,3,3,G3#,049-36-3-treble-G3#,3-G3#,treble,r4,gis,,4,r4 gis4,r4,"gis,4",gis4,gis'4,"r4 gis,4 gis4 gis'4",,,,,,r2,,,,,r1
-53,36,A3b,3,3,A3b,053-36-3-treble-A3b,3-A3b,treble,r4,aes,,4,r4 aes4,r4,"aes,4",aes4,aes'4,"r4 aes,4 aes4 aes'4",,,,,,r2,,,,,r1
-51,37,A3,3,3,A3,051-37-3-treble-A3,3-A3,treble,r4,a,,4,r4 a4,r4,"a,4",a4,a'4,"r4 a,4 a4 a'4",,,,,,r2,,,,,r1
-52,38,A3#,3,3,A3#,052-38-3-treble-A3#,3-A3#,treble,r4,ais,,4,r4 ais4,r4,"ais,4",ais4,ais'4,"r4 ais,4 ais4 ais'4",,,,,,r2,,,,,r1
-55,38,B3b,3,3,B3b,055-38-3-treble-B3b,3-B3b,treble,r4,bes,,4,r4 bes4,r4,"bes,4",bes4,bes'4,"r4 bes,4 bes4 bes'4",,,,,,r2,,,,,r1
-54,39,B3,3,3,B3,054-39-3-treble-B3,3-B3,treble,r4,b,,4,r4 b4,r4,"b,4",b4,b'4,"r4 b,4 b4 b'4",,,,,,r2,,,,,r1
-56,28,C3,1,3,C3,056-28-3-bass-C3,3-C3,bass,,,,,r2,,,,,r1,,r4,c,,4,r4 c4,r4,"c,4",c4,c'4,"r4 c,4 c4 c'4"
-57,29,C3#,1,3,C3#,057-29-3-bass-C3#,3-C3#,bass,,,,,r2,,,,,r1,,r4,cis,,4,r4 cis4,r4,"cis,4",cis4,cis'4,"r4 cis,4 cis4 cis'4"
-60,29,D3b,1,3,D3b,060-29-3-bass-D3b,3-D3b,bass,,,,,r2,,,,,r1,,r4,des,,4,r4 des4,r4,"des,4",des4,des'4,"r4 des,4 des4 des'4"
-58,30,D3,1,3,D3,058-30-3-bass-D3,3-D3,bass,,,,,r2,,,,,r1,,r4,d,,4,r4 d4,r4,"d,4",d4,d'4,"r4 d,4 d4 d'4"
-59,31,D3#,1,3,D3#,059-31-3-bass-D3#,3-D3#,bass,,,,,r2,,,,,r1,,r4,dis,,4,r4 dis4,r4,"dis,4",dis4,dis'4,"r4 dis,4 dis4 dis'4"
-62,31,E3b,1,3,E3b,062-31-3-bass-E3b,3-E3b,bass,,,,,r2,,,,,r1,,r4,ees,,4,r4 ees4,r4,"ees,4",ees4,ees'4,"r4 ees,4 ees4 ees'4"
-61,32,E3,1,3,E3,061-32-3-bass-E3,3-E3,bass,,,,,r2,,,,,r1,,r4,e,,4,r4 e4,r4,"e,4",e4,e'4,"r4 e,4 e4 e'4"
-63,33,F3,1,3,F3,063-33-3-bass-F3,3-F3,bass,,,,,r2,,,,,r1,,r4,f,,4,r4 f4,r4,"f,4",f4,f'4,"r4 f,4 f4 f'4"
-64,34,F3#,1,3,F3#,064-34-3-bass-F3#,3-F3#,bass,,,,,r2,,,,,r1,,r4,fis,,4,r4 fis4,r4,"fis,4",fis4,fis'4,"r4 fis,4 fis4 fis'4"
-67,34,G3b,1,3,G3b,067-34-3-bass-G3b,3-G3b,bass,,,,,r2,,,,,r1,,r4,ges,,4,r4 ges4,r4,"ges,4",ges4,ges'4,"r4 ges,4 ges4 ges'4"
-65,35,G3,1,3,G3,065-35-3-bass-G3,3-G3,bass,,,,,r2,,,,,r1,,r4,g,,4,r4 g4,r4,"g,4",g4,g'4,"r4 g,4 g4 g'4"
-66,36,G3#,1,3,G3#,066-36-3-bass-G3#,3-G3#,bass,,,,,r2,,,,,r1,,r4,gis,,4,r4 gis4,r4,"gis,4",gis4,gis'4,"r4 gis,4 gis4 gis'4"
-70,36,A3b,1,3,A3b,070-36-3-bass-A3b,3-A3b,bass,,,,,r2,,,,,r1,,r4,aes,,4,r4 aes4,r4,"aes,4",aes4,aes'4,"r4 aes,4 aes4 aes'4"
-68,37,A3,1,3,A3,068-37-3-bass-A3,3-A3,bass,,,,,r2,,,,,r1,,r4,a,,4,r4 a4,r4,"a,4",a4,a'4,"r4 a,4 a4 a'4"
-69,38,A3#,1,3,A3#,069-38-3-bass-A3#,3-A3#,bass,,,,,r2,,,,,r1,,r4,ais,,4,r4 ais4,r4,"ais,4",ais4,ais'4,"r4 ais,4 ais4 ais'4"
-72,38,B3b,1,3,B3b,072-38-3-bass-B3b,3-B3b,bass,,,,,r2,,,,,r1,,r4,bes,,4,r4 bes4,r4,"bes,4",bes4,bes'4,"r4 bes,4 bes4 bes'4"
-71,39,B3,1,3,B3,071-39-3-bass-B3,3-B3,bass,,,,,r2,,,,,r1,,r4,b,,4,r4 b4,r4,"b,4",b4,b'4,"r4 b,4 b4 b'4"
-73,40,C4,0,4,C4,073-40-4-treble-C4,4-C4,treble,r4,c,',4,r4 c'4,r4,c4,c'4,c''4,r4 c4 c'4 c''4,,,,,,r2,,,,,r1
-74,41,C4#,0,4,C4#,074-41-4-treble-C4#,4-C4#,treble,r4,cis,',4,r4 cis'4,r4,cis4,cis'4,cis''4,r4 cis4 cis'4 cis''4,,,,,,r2,,,,,r1
-77,41,D4b,0,4,D4b,077-41-4-treble-D4b,4-D4b,treble,r4,des,',4,r4 des'4,r4,des4,des'4,des''4,r4 des4 des'4 des''4,,,,,,r2,,,,,r1
-75,42,D4,0,4,D4,075-42-4-treble-D4,4-D4,treble,r4,d,',4,r4 d'4,r4,d4,d'4,d''4,r4 d4 d'4 d''4,,,,,,r2,,,,,r1
-76,43,D4#,0,4,D4#,076-43-4-treble-D4#,4-D4#,treble,r4,dis,',4,r4 dis'4,r4,dis4,dis'4,dis''4,r4 dis4 dis'4 dis''4,,,,,,r2,,,,,r1
-79,43,E4b,0,4,E4b,079-43-4-treble-E4b,4-E4b,treble,r4,ees,',4,r4 ees'4,r4,ees4,ees'4,ees''4,r4 ees4 ees'4 ees''4,,,,,,r2,,,,,r1
-78,44,E4,0,4,E4,078-44-4-treble-E4,4-E4,treble,r4,e,',4,r4 e'4,r4,e4,e'4,e''4,r4 e4 e'4 e''4,,,,,,r2,,,,,r1
-80,45,F4,0,4,F4,080-45-4-treble-F4,4-F4,treble,r4,f,',4,r4 f'4,r4,f4,f'4,f''4,r4 f4 f'4 f''4,,,,,,r2,,,,,r1
-81,46,F4#,0,4,F4#,081-46-4-treble-F4#,4-F4#,treble,r4,fis,',4,r4 fis'4,r4,fis4,fis'4,fis''4,r4 fis4 fis'4 fis''4,,,,,,r2,,,,,r1
-84,46,G4b,0,4,G4b,084-46-4-treble-G4b,4-G4b,treble,r4,ges,',4,r4 ges'4,r4,ges4,ges'4,ges''4,r4 ges4 ges'4 ges''4,,,,,,r2,,,,,r1
-82,47,G4,0,4,G4,082-47-4-treble-G4,4-G4,treble,r4,g,',4,r4 g'4,r4,g4,g'4,g''4,r4 g4 g'4 g''4,,,,,,r2,,,,,r1
-83,48,G4#,0,4,G4#,083-48-4-treble-G4#,4-G4#,treble,r4,gis,',4,r4 gis'4,r4,gis4,gis'4,gis''4,r4 gis4 gis'4 gis''4,,,,,,r2,,,,,r1
-87,48,A4b,0,4,A4b,087-48-4-treble-A4b,4-A4b,treble,r4,aes,',4,r4 aes'4,r4,aes4,aes'4,aes''4,r4 aes4 aes'4 aes''4,,,,,,r2,,,,,r1
-85,49,A4,0,4,A4,085-49-4-treble-A4,4-A4,treble,r4,a,',4,r4 a'4,r4,a4,a'4,a''4,r4 a4 a'4 a''4,,,,,,r2,,,,,r1
-86,50,A4#,0,4,A4#,086-50-4-treble-A4#,4-A4#,treble,r4,ais,',4,r4 ais'4,r4,ais4,ais'4,ais''4,r4 ais4 ais'4 ais''4,,,,,,r2,,,,,r1
-89,50,B4b,0,4,B4b,089-50-4-treble-B4b,4-B4b,treble,r4,bes,',4,r4 bes'4,r4,bes4,bes'4,bes''4,r4 bes4 bes'4 bes''4,,,,,,r2,,,,,r1
-88,51,B4,0,4,B4,088-51-4-treble-B4,4-B4,treble,r4,b,',4,r4 b'4,r4,b4,b'4,b''4,r4 b4 b'4 b''4,,,,,,r2,,,,,r1
-90,40,C4,1,4,C4,090-40-4-bass-C4,4-C4,bass,,,,,r2,,,,,r1,,r4,c,',4,r4 c'4,r4,c4,c'4,c''4,r4 c4 c'4 c''4
-91,41,C4#,1,4,C4#,091-41-4-bass-C4#,4-C4#,bass,,,,,r2,,,,,r1,,r4,cis,',4,r4 cis'4,r4,cis4,cis'4,cis''4,r4 cis4 cis'4 cis''4
-94,41,D4b,1,4,D4b,094-41-4-bass-D4b,4-D4b,bass,,,,,r2,,,,,r1,,r4,des,',4,r4 des'4,r4,des4,des'4,des''4,r4 des4 des'4 des''4
-92,42,D4,1,4,D4,092-42-4-bass-D4,4-D4,bass,,,,,r2,,,,,r1,,r4,d,',4,r4 d'4,r4,d4,d'4,d''4,r4 d4 d'4 d''4
-93,43,D4#,1,4,D4#,093-43-4-bass-D4#,4-D4#,bass,,,,,r2,,,,,r1,,r4,dis,',4,r4 dis'4,r4,dis4,dis'4,dis''4,r4 dis4 dis'4 dis''4
-96,43,E4b,1,4,E4b,096-43-4-bass-E4b,4-E4b,bass,,,,,r2,,,,,r1,,r4,ees,',4,r4 ees'4,r4,ees4,ees'4,ees''4,r4 ees4 ees'4 ees''4
-95,44,E4,1,4,E4,095-44-4-bass-E4,4-E4,bass,,,,,r2,,,,,r1,,r4,e,',4,r4 e'4,r4,e4,e'4,e''4,r4 e4 e'4 e''4
-97,45,F4,1,4,F4,097-45-4-bass-F4,4-F4,bass,,,,,r2,,,,,r1,,r4,f,',4,r4 f'4,r4,f4,f'4,f''4,r4 f4 f'4 f''4
-98,46,F4#,1,4,F4#,098-46-4-bass-F4#,4-F4#,bass,,,,,r2,,,,,r1,,r4,fis,',4,r4 fis'4,r4,fis4,fis'4,fis''4,r4 fis4 fis'4 fis''4
-101,46,G4b,1,4,G4b,101-46-4-bass-G4b,4-G4b,bass,,,,,r2,,,,,r1,,r4,ges,',4,r4 ges'4,r4,ges4,ges'4,ges''4,r4 ges4 ges'4 ges''4
-99,47,G4,1,4,G4,099-47-4-bass-G4,4-G4,bass,,,,,r2,,,,,r1,,r4,g,',4,r4 g'4,r4,g4,g'4,g''4,r4 g4 g'4 g''4
-100,48,G4#,1,4,G4#,100-48-4-bass-G4#,4-G4#,bass,,,,,r2,,,,,r1,,r4,gis,',4,r4 gis'4,r4,gis4,gis'4,gis''4,r4 gis4 gis'4 gis''4
-104,48,A4b,1,4,A4b,104-48-4-bass-A4b,4-A4b,bass,,,,,r2,,,,,r1,,r4,aes,',4,r4 aes'4,r4,aes4,aes'4,aes''4,r4 aes4 aes'4 aes''4
-102,49,A4,1,4,A4,102-49-4-bass-A4,4-A4,bass,,,,,r2,,,,,r1,,r4,a,',4,r4 a'4,r4,a4,a'4,a''4,r4 a4 a'4 a''4
-103,50,A4#,1,4,A4#,103-50-4-bass-A4#,4-A4#,bass,,,,,r2,,,,,r1,,r4,ais,',4,r4 ais'4,r4,ais4,ais'4,ais''4,r4 ais4 ais'4 ais''4
-106,50,B4b,1,4,B4b,106-50-4-bass-B4b,4-B4b,bass,,,,,r2,,,,,r1,,r4,bes,',4,r4 bes'4,r4,bes4,bes'4,bes''4,r4 bes4 bes'4 bes''4
-105,51,B4,1,4,B4,105-51-4-bass-B4,4-B4,bass,,,,,r2,,,,,r1,,r4,b,',4,r4 b'4,r4,b4,b'4,b''4,r4 b4 b'4 b''4
-107,52,C5,1,5,C5,107-52-5-bass-C5,5-C5,bass,,,,,r2,,,,,r1,,r4,c,'',4,r4 c''4,r4,c'4,c''4,c'''4,r4 c'4 c''4 c'''4
-108,53,C5#,1,5,C5#,108-53-5-bass-C5#,5-C5#,bass,,,,,r2,,,,,r1,,r4,cis,'',4,r4 cis''4,r4,cis'4,cis''4,cis'''4,r4 cis'4 cis''4 cis'''4
-109,52,C5,0,5,C5,109-52-5-treble-C5,5-C5,treble,r4,c,'',4,r4 c''4,r4,c'4,c''4,c'''4,r4 c'4 c''4 c'''4,,,,,,r2,,,,,r1
-110,53,C5#,0,5,C5#,110-53-5-treble-C5#,5-C5#,treble,r4,cis,'',4,r4 cis''4,r4,cis'4,cis''4,cis'''4,r4 cis'4 cis''4 cis'''4,,,,,,r2,,,,,r1
-113,53,D5b,0,5,D5b,113-53-5-treble-D5b,5-D5b,treble,r4,des,'',4,r4 des''4,r4,des'4,des''4,des'''4,r4 des'4 des''4 des'''4,,,,,,r2,,,,,r1
-111,54,D5,0,5,D5,111-54-5-treble-D5,5-D5,treble,r4,d,'',4,r4 d''4,r4,d'4,d''4,d'''4,r4 d'4 d''4 d'''4,,,,,,r2,,,,,r1
-112,55,D5#,0,5,D5#,112-55-5-treble-D5#,5-D5#,treble,r4,dis,'',4,r4 dis''4,r4,dis'4,dis''4,dis'''4,r4 dis'4 dis''4 dis'''4,,,,,,r2,,,,,r1
-115,55,E5b,0,5,E5b,115-55-5-treble-E5b,5-E5b,treble,r4,ees,'',4,r4 ees''4,r4,ees'4,ees''4,ees'''4,r4 ees'4 ees''4 ees'''4,,,,,,r2,,,,,r1
-114,56,E5,0,5,E5,114-56-5-treble-E5,5-E5,treble,r4,e,'',4,r4 e''4,r4,e'4,e''4,e'''4,r4 e'4 e''4 e'''4,,,,,,r2,,,,,r1
-116,57,F5,0,5,F5,116-57-5-treble-F5,5-F5,treble,r4,f,'',4,r4 f''4,r4,f'4,f''4,f'''4,r4 f'4 f''4 f'''4,,,,,,r2,,,,,r1
-117,58,F5#,0,5,F5#,117-58-5-treble-F5#,5-F5#,treble,r4,fis,'',4,r4 fis''4,r4,fis'4,fis''4,fis'''4,r4 fis'4 fis''4 fis'''4,,,,,,r2,,,,,r1
-120,58,G5b,0,5,G5b,120-58-5-treble-G5b,5-G5b,treble,r4,ges,'',4,r4 ges''4,r4,ges'4,ges''4,ges'''4,r4 ges'4 ges''4 ges'''4,,,,,,r2,,,,,r1
-118,59,G5,0,5,G5,118-59-5-treble-G5,5-G5,treble,r4,g,'',4,r4 g''4,r4,g'4,g''4,g'''4,r4 g'4 g''4 g'''4,,,,,,r2,,,,,r1
-119,60,G5#,0,5,G5#,119-60-5-treble-G5#,5-G5#,treble,r4,gis,'',4,r4 gis''4,r4,gis'4,gis''4,gis'''4,r4 gis'4 gis''4 gis'''4,,,,,,r2,,,,,r1
-123,60,A5b,0,5,A5b,123-60-5-treble-A5b,5-A5b,treble,r4,aes,'',4,r4 aes''4,r4,aes'4,aes''4,aes'''4,r4 aes'4 aes''4 aes'''4,,,,,,r2,,,,,r1
-121,61,A5,0,5,A5,121-61-5-treble-A5,5-A5,treble,r4,a,'',4,r4 a''4,r4,a'4,a''4,a'''4,r4 a'4 a''4 a'''4,,,,,,r2,,,,,r1
-122,62,A5#,0,5,A5#,122-62-5-treble-A5#,5-A5#,treble,r4,ais,'',4,r4 ais''4,r4,ais'4,ais''4,ais'''4,r4 ais'4 ais''4 ais'''4,,,,,,r2,,,,,r1
-125,62,B5b,0,5,B5b,125-62-5-treble-B5b,5-B5b,treble,r4,bes,'',4,r4 bes''4,r4,bes'4,bes''4,bes'''4,r4 bes'4 bes''4 bes'''4,,,,,,r2,,,,,r1
-124,63,B5,0,5,B5,124-63-5-treble-B5,5-B5,treble,r4,b,'',4,r4 b''4,r4,b'4,b''4,b'''4,r4 b'4 b''4 b'''4,,,,,,r2,,,,,r1
-126,64,C6,1,6,C6,126-64-6-treble-C6,6-C6,treble,r4,c,''',4,r4 c'''4,r4,c''4,c'''4,c''''4,r4 c''4 c'''4 c''''4,,,,,,r2,,,,,r1
-127,65,C6#,1,6,C6#,127-65-6-treble-C6#,6-C6#,treble,r4,cis,''',4,r4 cis'''4,r4,cis''4,cis'''4,cis''''4,r4 cis''4 cis'''4 cis''''4,,,,,,r2,,,,,r1
-130,65,D6b,1,6,D6b,130-65-6-treble-D6b,6-D6b,treble,r4,des,''',4,r4 des'''4,r4,des''4,des'''4,des''''4,r4 des''4 des'''4 des''''4,,,,,,r2,,,,,r1
-128,66,D6,1,6,D6,128-66-6-treble-D6,6-D6,treble,r4,d,''',4,r4 d'''4,r4,d''4,d'''4,d''''4,r4 d''4 d'''4 d''''4,,,,,,r2,,,,,r1
-129,67,D6#,1,6,D6#,129-67-6-treble-D6#,6-D6#,treble,r4,dis,''',4,r4 dis'''4,r4,dis''4,dis'''4,dis''''4,r4 dis''4 dis'''4 dis''''4,,,,,,r2,,,,,r1
-132,67,E6b,1,6,E6b,132-67-6-treble-E6b,6-E6b,treble,r4,ees,''',4,r4 ees'''4,r4,ees''4,ees'''4,ees''''4,r4 ees''4 ees'''4 ees''''4,,,,,,r2,,,,,r1
-131,68,E6,1,6,E6,131-68-6-treble-E6,6-E6,treble,r4,e,''',4,r4 e'''4,r4,e''4,e'''4,e''''4,r4 e''4 e'''4 e''''4,,,,,,r2,,,,,r1
-133,69,F6,1,6,F6,133-69-6-treble-F6,6-F6,treble,r4,f,''',4,r4 f'''4,r4,f''4,f'''4,f''''4,r4 f''4 f'''4 f''''4,,,,,,r2,,,,,r1
-134,70,F6#,1,6,F6#,134-70-6-treble-F6#,6-F6#,treble,r4,fis,''',4,r4 fis'''4,r4,fis''4,fis'''4,fis''''4,r4 fis''4 fis'''4 fis''''4,,,,,,r2,,,,,r1
-137,70,G6b,1,6,G6b,137-70-6-treble-G6b,6-G6b,treble,r4,ges,''',4,r4 ges'''4,r4,ges''4,ges'''4,ges''''4,r4 ges''4 ges'''4 ges''''4,,,,,,r2,,,,,r1
-135,71,G6,1,6,G6,135-71-6-treble-G6,6-G6,treble,r4,g,''',4,r4 g'''4,r4,g''4,g'''4,g''''4,r4 g''4 g'''4 g''''4,,,,,,r2,,,,,r1
-136,72,G6#,1,6,G6#,136-72-6-treble-G6#,6-G6#,treble,r4,gis,''',4,r4 gis'''4,r4,gis''4,gis'''4,gis''''4,r4 gis''4 gis'''4 gis''''4,,,,,,r2,,,,,r1
-140,72,A6b,1,6,A6b,140-72-6-treble-A6b,6-A6b,treble,r4,aes,''',4,r4 aes'''4,r4,aes''4,aes'''4,aes''''4,r4 aes''4 aes'''4 aes''''4,,,,,,r2,,,,,r1
-138,73,A6,1,6,A6,138-73-6-treble-A6,6-A6,treble,r4,a,''',4,r4 a'''4,r4,a''4,a'''4,a''''4,r4 a''4 a'''4 a''''4,,,,,,r2,,,,,r1
-139,74,A6#,1,6,A6#,139-74-6-treble-A6#,6-A6#,treble,r4,ais,''',4,r4 ais'''4,r4,ais''4,ais'''4,ais''''4,r4 ais''4 ais'''4 ais''''4,,,,,,r2,,,,,r1
-142,74,B6b,1,6,B6b,142-74-6-treble-B6b,6-B6b,treble,r4,bes,''',4,r4 bes'''4,r4,bes''4,bes'''4,bes''''4,r4 bes''4 bes'''4 bes''''4,,,,,,r2,,,,,r1
-141,75,B6,1,6,B6,141-75-6-treble-B6,6-B6,treble,r4,b,''',4,r4 b'''4,r4,b''4,b'''4,b''''4,r4 b''4 b'''4 b''''4,,,,,,r2,,,,,r1
-143,76,C7,3,7,C7,143-76-7-treble-C7,7-C7,treble,r4,c,'''',4,r4 c''''4,r4,c''4,c'''4,c''''4,r4 c''4 c'''4 c''''4,,,,,,r2,,,,,r1
-144,77,C7#,3,7,C7#,144-77-7-treble-C7#,7-C7#,treble,r4,cis,'''',4,r4 cis''''4,r4,cis''4,cis'''4,cis''''4,r4 cis''4 cis'''4 cis''''4,,,,,,r2,,,,,r1
-147,77,D7b,3,7,D7b,147-77-7-treble-D7b,7-D7b,treble,r4,des,'''',4,r4 des''''4,r4,des''4,des'''4,des''''4,r4 des''4 des'''4 des''''4,,,,,,r2,,,,,r1
-145,78,D7,3,7,D7,145-78-7-treble-D7,7-D7,treble,r4,d,'''',4,r4 d''''4,r4,d''4,d'''4,d''''4,r4 d''4 d'''4 d''''4,,,,,,r2,,,,,r1
-146,79,D7#,3,7,D7#,146-79-7-treble-D7#,7-D7#,treble,r4,dis,'''',4,r4 dis''''4,r4,dis''4,dis'''4,dis''''4,r4 dis''4 dis'''4 dis''''4,,,,,,r2,,,,,r1
-149,79,E7b,3,7,E7b,149-79-7-treble-E7b,7-E7b,treble,r4,ees,'''',4,r4 ees''''4,r4,ees''4,ees'''4,ees''''4,r4 ees''4 ees'''4 ees''''4,,,,,,r2,,,,,r1
-148,80,E7,3,7,E7,148-80-7-treble-E7,7-E7,treble,r4,e,'''',4,r4 e''''4,r4,e''4,e'''4,e''''4,r4 e''4 e'''4 e''''4,,,,,,r2,,,,,r1
-150,81,F7,3,7,F7,150-81-7-treble-F7,7-F7,treble,r4,f,'''',4,r4 f''''4,r4,f''4,f'''4,f''''4,r4 f''4 f'''4 f''''4,,,,,,r2,,,,,r1
-151,82,F7#,3,7,F7#,151-82-7-treble-F7#,7-F7#,treble,r4,fis,'''',4,r4 fis''''4,r4,fis''4,fis'''4,fis''''4,r4 fis''4 fis'''4 fis''''4,,,,,,r2,,,,,r1
-154,82,G7b,3,7,G7b,154-82-7-treble-G7b,7-G7b,treble,r4,ges,'''',4,r4 ges''''4,r4,ges''4,ges'''4,ges''''4,r4 ges''4 ges'''4 ges''''4,,,,,,r2,,,,,r1
-152,83,G7,3,7,G7,152-83-7-treble-G7,7-G7,treble,r4,g,'''',4,r4 g''''4,r4,g''4,g'''4,g''''4,r4 g''4 g'''4 g''''4,,,,,,r2,,,,,r1
-153,84,G7#,3,7,G7#,153-84-7-treble-G7#,7-G7#,treble,r4,gis,'''',4,r4 gis''''4,r4,gis''4,gis'''4,gis''''4,r4 gis''4 gis'''4 gis''''4,,,,,,r2,,,,,r1
-157,84,A7b,3,7,A7b,157-84-7-treble-A7b,7-A7b,treble,r4,aes,'''',4,r4 aes''''4,r4,aes''4,aes'''4,aes''''4,r4 aes''4 aes'''4 aes''''4,,,,,,r2,,,,,r1
-155,85,A7,3,7,A7,155-85-7-treble-A7,7-A7,treble,r4,a,'''',4,r4 a''''4,r4,a''4,a'''4,a''''4,r4 a''4 a'''4 a''''4,,,,,,r2,,,,,r1
-156,86,A7#,3,7,A7#,156-86-7-treble-A7#,7-A7#,treble,r4,ais,'''',4,r4 ais''''4,r4,ais''4,ais'''4,ais''''4,r4 ais''4 ais'''4 ais''''4,,,,,,r2,,,,,r1
-159,86,B7b,3,7,B7b,159-86-7-treble-B7b,7-B7b,treble,r4,bes,'''',4,r4 bes''''4,r4,bes''4,bes'''4,bes''''4,r4 bes''4 bes'''4 bes''''4,,,,,,r2,,,,,r1
-158,87,B7,3,7,B7,158-87-7-treble-B7,7-B7,treble,r4,b,'''',4,r4 b''''4,r4,b''4,b'''4,b''''4,r4 b''4 b'''4 b''''4,,,,,,r2,,,,,r1
-160,88,C8,3,8,C8,160-88-8-treble-C8,8-C8,treble,r4,c,''''',4,r4 c'''''4,r4,c'''4,c''''4,c'''''4,r4 c'''4 c''''4 c'''''4,,,,,,r2,,,,,r1
+#,key#,piano_note,order,octave,name,sound/score_filename,keyboard_filename,clef,t_rest,root_t_note,octave_Δ,b,treble_note,octave_rest,-1Δ,0Δ,1Δ,treble_octaves,treble_octaves_hidden,,b_rest,root_b_note,octave_Δ,b,bass_note,octave_rest,-1Δ,0Δ,1Δ,bass_octaves,bass_octaves_hidden
+,,,,,,000#-key00#-octave0-clef-piano_note,octave0-piano_note,,,,,,,,,,,,,,,,,,,,,,,,
+1,1,A0,4,0,A0,001-01-0-bass-A0,0-A0,bass,,,,,r2,,,,,r1,r1,,r4,a,",,,",4,"r4 a,,,4",r4,"a,4","a,,4","a,,,4","r4 a,4 a,,4 a,,,4","r4 \hideNotes a,4 a,,4 a,,,4"
+2,2,A0#,4,0,A0#,002-02-0-bass-A0#,0-A0#,bass,,,,,r2,,,,,r1,r1,,r4,ais,",,,",4,"r4 ais,,,4",r4,"ais,4","ais,,4","ais,,,4","r4 ais,4 ais,,4 ais,,,4","r4 \hideNotes ais,4 ais,,4 ais,,,4"
+4,2,B0b,4,0,B0b,004-02-0-bass-B0b,0-B0b,bass,,,,,r2,,,,,r1,r1,,r4,bes,",,,",4,"r4 bes,,,4",r4,"bes,4","bes,,4","bes,,,4","r4 bes,4 bes,,4 bes,,,4","r4 \hideNotes bes,4 bes,,4 bes,,,4"
+3,3,B0,4,0,B0,003-03-0-bass-B0,0-B0,bass,,,,,r2,,,,,r1,r1,,r4,b,",,,",4,"r4 b,,,4",r4,"b,4","b,,4","b,,,4","r4 b,4 b,,4 b,,,4","r4 \hideNotes b,4 b,,4 b,,,4"
+5,4,C1,4,1,C1,005-04-1-bass-C1,1-C1,bass,,,,,r2,,,,,r1,r1,,r4,c,",,",4,"r4 c,,4",r4,c4,"c,4","c,,4","r4 c4 c,4 c,,4","r4 \hideNotes c4 c,4 c,,4"
+6,5,C1#,4,1,C1#,006-05-1-bass-C1#,1-C1#,bass,,,,,r2,,,,,r1,r1,,r4,cis,",,",4,"r4 cis,,4",r4,cis4,"cis,4","cis,,4","r4 cis4 cis,4 cis,,4","r4 \hideNotes cis4 cis,4 cis,,4"
+9,5,D1b,4,1,D1b,009-05-1-bass-D1b,1-D1b,bass,,,,,r2,,,,,r1,r1,,r4,des,",,",4,"r4 des,,4",r4,des4,"des,4","des,,4","r4 des4 des,4 des,,4","r4 \hideNotes des4 des,4 des,,4"
+7,6,D1,4,1,D1,007-06-1-bass-D1,1-D1,bass,,,,,r2,,,,,r1,r1,,r4,d,",,",4,"r4 d,,4",r4,d4,"d,4","d,,4","r4 d4 d,4 d,,4","r4 \hideNotes d4 d,4 d,,4"
+8,7,D1#,4,1,D1#,008-07-1-bass-D1#,1-D1#,bass,,,,,r2,,,,,r1,r1,,r4,dis,",,",4,"r4 dis,,4",r4,dis4,"dis,4","dis,,4","r4 dis4 dis,4 dis,,4","r4 \hideNotes dis4 dis,4 dis,,4"
+11,7,E1b,4,1,E1b,011-07-1-bass-E1b,1-E1b,bass,,,,,r2,,,,,r1,r1,,r4,ees,",,",4,"r4 ees,,4",r4,ees4,"ees,4","ees,,4","r4 ees4 ees,4 ees,,4","r4 \hideNotes ees4 ees,4 ees,,4"
+10,8,E1,4,1,E1,010-08-1-bass-E1,1-E1,bass,,,,,r2,,,,,r1,r1,,r4,e,",,",4,"r4 e,,4",r4,e4,"e,4","e,,4","r4 e4 e,4 e,,4","r4 \hideNotes e4 e,4 e,,4"
+12,9,F1,4,1,F1,012-09-1-bass-F1,1-F1,bass,,,,,r2,,,,,r1,r1,,r4,f,",,",4,"r4 f,,4",r4,f4,"f,4","f,,4","r4 f4 f,4 f,,4","r4 \hideNotes f4 f,4 f,,4"
+13,10,F1#,4,1,F1#,013-10-1-bass-F1#,1-F1#,bass,,,,,r2,,,,,r1,r1,,r4,fis,",,",4,"r4 fis,,4",r4,fis4,"fis,4","fis,,4","r4 fis4 fis,4 fis,,4","r4 \hideNotes fis4 fis,4 fis,,4"
+16,10,G1b,4,1,G1b,016-10-1-bass-G1b,1-G1b,bass,,,,,r2,,,,,r1,r1,,r4,ges,",,",4,"r4 ges,,4",r4,ges4,"ges,4","ges,,4","r4 ges4 ges,4 ges,,4","r4 \hideNotes ges4 ges,4 ges,,4"
+14,11,G1,4,1,G1,014-11-1-bass-G1,1-G1,bass,,,,,r2,,,,,r1,r1,,r4,g,",,",4,"r4 g,,4",r4,g4,"g,4","g,,4","r4 g4 g,4 g,,4","r4 \hideNotes g4 g,4 g,,4"
+15,12,G1#,4,1,G1#,015-12-1-bass-G1#,1-G1#,bass,,,,,r2,,,,,r1,r1,,r4,gis,",,",4,"r4 gis,,4",r4,gis4,"gis,4","gis,,4","r4 gis4 gis,4 gis,,4","r4 \hideNotes gis4 gis,4 gis,,4"
+19,12,A1b,4,1,A1b,019-12-1-bass-A1b,1-A1b,bass,,,,,r2,,,,,r1,r1,,r4,aes,",,",4,"r4 aes,,4",r4,aes4,"aes,4","aes,,4","r4 aes4 aes,4 aes,,4","r4 \hideNotes aes4 aes,4 aes,,4"
+17,13,A1,4,1,A1,017-13-1-bass-A1,1-A1,bass,,,,,r2,,,,,r1,r1,,r4,a,",,",4,"r4 a,,4",r4,a4,"a,4","a,,4","r4 a4 a,4 a,,4","r4 \hideNotes a4 a,4 a,,4"
+18,14,A1#,4,1,A1#,018-14-1-bass-A1#,1-A1#,bass,,,,,r2,,,,,r1,r1,,r4,ais,",,",4,"r4 ais,,4",r4,ais4,"ais,4","ais,,4","r4 ais4 ais,4 ais,,4","r4 \hideNotes ais4 ais,4 ais,,4"
+21,14,B1b,4,1,B1b,021-14-1-bass-B1b,1-B1b,bass,,,,,r2,,,,,r1,r1,,r4,bes,",,",4,"r4 bes,,4",r4,bes4,"bes,4","bes,,4","r4 bes4 bes,4 bes,,4","r4 \hideNotes bes4 bes,4 bes,,4"
+20,15,B1,4,1,B1,020-15-1-bass-B1,1-B1,bass,,,,,r2,,,,,r1,r1,,r4,b,",,",4,"r4 b,,4",r4,b4,"b,4","b,,4","r4 b4 b,4 b,,4","r4 \hideNotes b4 b,4 b,,4"
+22,16,C2,2,2,C2,022-16-2-bass-C2,2-C2,bass,,,,,r2,,,,,r1,r1,,r4,c,",",4,"r4 c,4",r4,"c,,4","c,4",c4,"r4 c,,4 c,4 c4","r4 \hideNotes c,,4 c,4 c4"
+23,17,C2#,2,2,C2#,023-17-2-bass-C2#,2-C2#,bass,,,,,r2,,,,,r1,r1,,r4,cis,",",4,"r4 cis,4",r4,"cis,,4","cis,4",cis4,"r4 cis,,4 cis,4 cis4","r4 \hideNotes cis,,4 cis,4 cis4"
+26,17,D2b,2,2,D2b,026-17-2-bass-D2b,2-D2b,bass,,,,,r2,,,,,r1,r1,,r4,des,",",4,"r4 des,4",r4,"des,,4","des,4",des4,"r4 des,,4 des,4 des4","r4 \hideNotes des,,4 des,4 des4"
+24,18,D2,2,2,D2,024-18-2-bass-D2,2-D2,bass,,,,,r2,,,,,r1,r1,,r4,d,",",4,"r4 d,4",r4,"d,,4","d,4",d4,"r4 d,,4 d,4 d4","r4 \hideNotes d,,4 d,4 d4"
+25,19,D2#,2,2,D2#,025-19-2-bass-D2#,2-D2#,bass,,,,,r2,,,,,r1,r1,,r4,dis,",",4,"r4 dis,4",r4,"dis,,4","dis,4",dis4,"r4 dis,,4 dis,4 dis4","r4 \hideNotes dis,,4 dis,4 dis4"
+28,19,E2b,2,2,E2b,028-19-2-bass-E2b,2-E2b,bass,,,,,r2,,,,,r1,r1,,r4,ees,",",4,"r4 ees,4",r4,"ees,,4","ees,4",ees4,"r4 ees,,4 ees,4 ees4","r4 \hideNotes ees,,4 ees,4 ees4"
+27,20,E2,2,2,E2,027-20-2-bass-E2,2-E2,bass,,,,,r2,,,,,r1,r1,,r4,e,",",4,"r4 e,4",r4,"e,,4","e,4",e4,"r4 e,,4 e,4 e4","r4 \hideNotes e,,4 e,4 e4"
+29,21,F2,2,2,F2,029-21-2-bass-F2,2-F2,bass,,,,,r2,,,,,r1,r1,,r4,f,",",4,"r4 f,4",r4,"f,,4","f,4",f4,"r4 f,,4 f,4 f4","r4 \hideNotes f,,4 f,4 f4"
+30,22,F2#,2,2,F2#,030-22-2-bass-F2#,2-F2#,bass,,,,,r2,,,,,r1,r1,,r4,fis,",",4,"r4 fis,4",r4,"fis,,4","fis,4",fis4,"r4 fis,,4 fis,4 fis4","r4 \hideNotes fis,,4 fis,4 fis4"
+33,22,G2b,2,2,G2b,033-22-2-bass-G2b,2-G2b,bass,,,,,r2,,,,,r1,r1,,r4,ges,",",4,"r4 ges,4",r4,"ges,,4","ges,4",ges4,"r4 ges,,4 ges,4 ges4","r4 \hideNotes ges,,4 ges,4 ges4"
+31,23,G2,2,2,G2,031-23-2-bass-G2,2-G2,bass,,,,,r2,,,,,r1,r1,,r4,g,",",4,"r4 g,4",r4,"g,,4","g,4",g4,"r4 g,,4 g,4 g4","r4 \hideNotes g,,4 g,4 g4"
+32,24,G2#,2,2,G2#,032-24-2-bass-G2#,2-G2#,bass,,,,,r2,,,,,r1,r1,,r4,gis,",",4,"r4 gis,4",r4,"gis,,4","gis,4",gis4,"r4 gis,,4 gis,4 gis4","r4 \hideNotes gis,,4 gis,4 gis4"
+36,24,A2b,2,2,A2b,036-24-2-bass-A2b,2-A2b,bass,,,,,r2,,,,,r1,r1,,r4,aes,",",4,"r4 aes,4",r4,"aes,,4","aes,4",aes4,"r4 aes,,4 aes,4 aes4","r4 \hideNotes aes,,4 aes,4 aes4"
+34,25,A2,2,2,A2,034-25-2-bass-A2,2-A2,bass,,,,,r2,,,,,r1,r1,,r4,a,",",4,"r4 a,4",r4,"a,,4","a,4",a4,"r4 a,,4 a,4 a4","r4 \hideNotes a,,4 a,4 a4"
+35,26,A2#,2,2,A2#,035-26-2-bass-A2#,2-A2#,bass,,,,,r2,,,,,r1,r1,,r4,ais,",",4,"r4 ais,4",r4,"ais,,4","ais,4",ais4,"r4 ais,,4 ais,4 ais4","r4 \hideNotes ais,,4 ais,4 ais4"
+38,26,B2b,2,2,B2b,038-26-2-bass-B2b,2-B2b,bass,,,,,r2,,,,,r1,r1,,r4,bes,",",4,"r4 bes,4",r4,"bes,,4","bes,4",bes4,"r4 bes,,4 bes,4 bes4","r4 \hideNotes bes,,4 bes,4 bes4"
+37,27,B2,2,2,B2,037-27-2-bass-B2,2-B2,bass,,,,,r2,,,,,r1,r1,,r4,b,",",4,"r4 b,4",r4,"b,,4","b,4",b4,"r4 b,,4 b,4 b4","r4 \hideNotes b,,4 b,4 b4"
+39,28,C3,3,3,C3,039-28-3-treble-C3,3-C3,treble,r4,c,,4,r4 c4,r4,"c,4",c4,c'4,"r4 c,4 c4 c'4","r4 \hideNotes c,4 c4 c'4",,,,,,r2,,,,,r1,r1
+40,29,C3#,3,3,C3#,040-29-3-treble-C3#,3-C3#,treble,r4,cis,,4,r4 cis4,r4,"cis,4",cis4,cis'4,"r4 cis,4 cis4 cis'4","r4 \hideNotes cis,4 cis4 cis'4",,,,,,r2,,,,,r1,r1
+43,29,D3b,3,3,D3b,043-29-3-treble-D3b,3-D3b,treble,r4,des,,4,r4 des4,r4,"des,4",des4,des'4,"r4 des,4 des4 des'4","r4 \hideNotes des,4 des4 des'4",,,,,,r2,,,,,r1,r1
+41,30,D3,3,3,D3,041-30-3-treble-D3,3-D3,treble,r4,d,,4,r4 d4,r4,"d,4",d4,d'4,"r4 d,4 d4 d'4","r4 \hideNotes d,4 d4 d'4",,,,,,r2,,,,,r1,r1
+42,31,D3#,3,3,D3#,042-31-3-treble-D3#,3-D3#,treble,r4,dis,,4,r4 dis4,r4,"dis,4",dis4,dis'4,"r4 dis,4 dis4 dis'4","r4 \hideNotes dis,4 dis4 dis'4",,,,,,r2,,,,,r1,r1
+45,31,E3b,3,3,E3b,045-31-3-treble-E3b,3-E3b,treble,r4,ees,,4,r4 ees4,r4,"ees,4",ees4,ees'4,"r4 ees,4 ees4 ees'4","r4 \hideNotes ees,4 ees4 ees'4",,,,,,r2,,,,,r1,r1
+44,32,E3,3,3,E3,044-32-3-treble-E3,3-E3,treble,r4,e,,4,r4 e4,r4,"e,4",e4,e'4,"r4 e,4 e4 e'4","r4 \hideNotes e,4 e4 e'4",,,,,,r2,,,,,r1,r1
+46,33,F3,3,3,F3,046-33-3-treble-F3,3-F3,treble,r4,f,,4,r4 f4,r4,"f,4",f4,f'4,"r4 f,4 f4 f'4","r4 \hideNotes f,4 f4 f'4",,,,,,r2,,,,,r1,r1
+47,34,F3#,3,3,F3#,047-34-3-treble-F3#,3-F3#,treble,r4,fis,,4,r4 fis4,r4,"fis,4",fis4,fis'4,"r4 fis,4 fis4 fis'4","r4 \hideNotes fis,4 fis4 fis'4",,,,,,r2,,,,,r1,r1
+50,34,G3b,3,3,G3b,050-34-3-treble-G3b,3-G3b,treble,r4,ges,,4,r4 ges4,r4,"ges,4",ges4,ges'4,"r4 ges,4 ges4 ges'4","r4 \hideNotes ges,4 ges4 ges'4",,,,,,r2,,,,,r1,r1
+48,35,G3,3,3,G3,048-35-3-treble-G3,3-G3,treble,r4,g,,4,r4 g4,r4,"g,4",g4,g'4,"r4 g,4 g4 g'4","r4 \hideNotes g,4 g4 g'4",,,,,,r2,,,,,r1,r1
+49,36,G3#,3,3,G3#,049-36-3-treble-G3#,3-G3#,treble,r4,gis,,4,r4 gis4,r4,"gis,4",gis4,gis'4,"r4 gis,4 gis4 gis'4","r4 \hideNotes gis,4 gis4 gis'4",,,,,,r2,,,,,r1,r1
+53,36,A3b,3,3,A3b,053-36-3-treble-A3b,3-A3b,treble,r4,aes,,4,r4 aes4,r4,"aes,4",aes4,aes'4,"r4 aes,4 aes4 aes'4","r4 \hideNotes aes,4 aes4 aes'4",,,,,,r2,,,,,r1,r1
+51,37,A3,3,3,A3,051-37-3-treble-A3,3-A3,treble,r4,a,,4,r4 a4,r4,"a,4",a4,a'4,"r4 a,4 a4 a'4","r4 \hideNotes a,4 a4 a'4",,,,,,r2,,,,,r1,r1
+52,38,A3#,3,3,A3#,052-38-3-treble-A3#,3-A3#,treble,r4,ais,,4,r4 ais4,r4,"ais,4",ais4,ais'4,"r4 ais,4 ais4 ais'4","r4 \hideNotes ais,4 ais4 ais'4",,,,,,r2,,,,,r1,r1
+55,38,B3b,3,3,B3b,055-38-3-treble-B3b,3-B3b,treble,r4,bes,,4,r4 bes4,r4,"bes,4",bes4,bes'4,"r4 bes,4 bes4 bes'4","r4 \hideNotes bes,4 bes4 bes'4",,,,,,r2,,,,,r1,r1
+54,39,B3,3,3,B3,054-39-3-treble-B3,3-B3,treble,r4,b,,4,r4 b4,r4,"b,4",b4,b'4,"r4 b,4 b4 b'4","r4 \hideNotes b,4 b4 b'4",,,,,,r2,,,,,r1,r1
+56,28,C3,1,3,C3,056-28-3-bass-C3,3-C3,bass,,,,,r2,,,,,r1,r1,,r4,c,,4,r4 c4,r4,"c,4",c4,c'4,"r4 c,4 c4 c'4","r4 \hideNotes c,4 c4 c'4"
+57,29,C3#,1,3,C3#,057-29-3-bass-C3#,3-C3#,bass,,,,,r2,,,,,r1,r1,,r4,cis,,4,r4 cis4,r4,"cis,4",cis4,cis'4,"r4 cis,4 cis4 cis'4","r4 \hideNotes cis,4 cis4 cis'4"
+60,29,D3b,1,3,D3b,060-29-3-bass-D3b,3-D3b,bass,,,,,r2,,,,,r1,r1,,r4,des,,4,r4 des4,r4,"des,4",des4,des'4,"r4 des,4 des4 des'4","r4 \hideNotes des,4 des4 des'4"
+58,30,D3,1,3,D3,058-30-3-bass-D3,3-D3,bass,,,,,r2,,,,,r1,r1,,r4,d,,4,r4 d4,r4,"d,4",d4,d'4,"r4 d,4 d4 d'4","r4 \hideNotes d,4 d4 d'4"
+59,31,D3#,1,3,D3#,059-31-3-bass-D3#,3-D3#,bass,,,,,r2,,,,,r1,r1,,r4,dis,,4,r4 dis4,r4,"dis,4",dis4,dis'4,"r4 dis,4 dis4 dis'4","r4 \hideNotes dis,4 dis4 dis'4"
+62,31,E3b,1,3,E3b,062-31-3-bass-E3b,3-E3b,bass,,,,,r2,,,,,r1,r1,,r4,ees,,4,r4 ees4,r4,"ees,4",ees4,ees'4,"r4 ees,4 ees4 ees'4","r4 \hideNotes ees,4 ees4 ees'4"
+61,32,E3,1,3,E3,061-32-3-bass-E3,3-E3,bass,,,,,r2,,,,,r1,r1,,r4,e,,4,r4 e4,r4,"e,4",e4,e'4,"r4 e,4 e4 e'4","r4 \hideNotes e,4 e4 e'4"
+63,33,F3,1,3,F3,063-33-3-bass-F3,3-F3,bass,,,,,r2,,,,,r1,r1,,r4,f,,4,r4 f4,r4,"f,4",f4,f'4,"r4 f,4 f4 f'4","r4 \hideNotes f,4 f4 f'4"
+64,34,F3#,1,3,F3#,064-34-3-bass-F3#,3-F3#,bass,,,,,r2,,,,,r1,r1,,r4,fis,,4,r4 fis4,r4,"fis,4",fis4,fis'4,"r4 fis,4 fis4 fis'4","r4 \hideNotes fis,4 fis4 fis'4"
+67,34,G3b,1,3,G3b,067-34-3-bass-G3b,3-G3b,bass,,,,,r2,,,,,r1,r1,,r4,ges,,4,r4 ges4,r4,"ges,4",ges4,ges'4,"r4 ges,4 ges4 ges'4","r4 \hideNotes ges,4 ges4 ges'4"
+65,35,G3,1,3,G3,065-35-3-bass-G3,3-G3,bass,,,,,r2,,,,,r1,r1,,r4,g,,4,r4 g4,r4,"g,4",g4,g'4,"r4 g,4 g4 g'4","r4 \hideNotes g,4 g4 g'4"
+66,36,G3#,1,3,G3#,066-36-3-bass-G3#,3-G3#,bass,,,,,r2,,,,,r1,r1,,r4,gis,,4,r4 gis4,r4,"gis,4",gis4,gis'4,"r4 gis,4 gis4 gis'4","r4 \hideNotes gis,4 gis4 gis'4"
+70,36,A3b,1,3,A3b,070-36-3-bass-A3b,3-A3b,bass,,,,,r2,,,,,r1,r1,,r4,aes,,4,r4 aes4,r4,"aes,4",aes4,aes'4,"r4 aes,4 aes4 aes'4","r4 \hideNotes aes,4 aes4 aes'4"
+68,37,A3,1,3,A3,068-37-3-bass-A3,3-A3,bass,,,,,r2,,,,,r1,r1,,r4,a,,4,r4 a4,r4,"a,4",a4,a'4,"r4 a,4 a4 a'4","r4 \hideNotes a,4 a4 a'4"
+69,38,A3#,1,3,A3#,069-38-3-bass-A3#,3-A3#,bass,,,,,r2,,,,,r1,r1,,r4,ais,,4,r4 ais4,r4,"ais,4",ais4,ais'4,"r4 ais,4 ais4 ais'4","r4 \hideNotes ais,4 ais4 ais'4"
+72,38,B3b,1,3,B3b,072-38-3-bass-B3b,3-B3b,bass,,,,,r2,,,,,r1,r1,,r4,bes,,4,r4 bes4,r4,"bes,4",bes4,bes'4,"r4 bes,4 bes4 bes'4","r4 \hideNotes bes,4 bes4 bes'4"
+71,39,B3,1,3,B3,071-39-3-bass-B3,3-B3,bass,,,,,r2,,,,,r1,r1,,r4,b,,4,r4 b4,r4,"b,4",b4,b'4,"r4 b,4 b4 b'4","r4 \hideNotes b,4 b4 b'4"
+73,40,C4,0,4,C4,073-40-4-treble-C4,4-C4,treble,r4,c,',4,r4 c'4,r4,c4,c'4,c''4,r4 c4 c'4 c''4,r4 \hideNotes c4 c'4 c''4,,,,,,r2,,,,,r1,r1
+74,41,C4#,0,4,C4#,074-41-4-treble-C4#,4-C4#,treble,r4,cis,',4,r4 cis'4,r4,cis4,cis'4,cis''4,r4 cis4 cis'4 cis''4,r4 \hideNotes cis4 cis'4 cis''4,,,,,,r2,,,,,r1,r1
+77,41,D4b,0,4,D4b,077-41-4-treble-D4b,4-D4b,treble,r4,des,',4,r4 des'4,r4,des4,des'4,des''4,r4 des4 des'4 des''4,r4 \hideNotes des4 des'4 des''4,,,,,,r2,,,,,r1,r1
+75,42,D4,0,4,D4,075-42-4-treble-D4,4-D4,treble,r4,d,',4,r4 d'4,r4,d4,d'4,d''4,r4 d4 d'4 d''4,r4 \hideNotes d4 d'4 d''4,,,,,,r2,,,,,r1,r1
+76,43,D4#,0,4,D4#,076-43-4-treble-D4#,4-D4#,treble,r4,dis,',4,r4 dis'4,r4,dis4,dis'4,dis''4,r4 dis4 dis'4 dis''4,r4 \hideNotes dis4 dis'4 dis''4,,,,,,r2,,,,,r1,r1
+79,43,E4b,0,4,E4b,079-43-4-treble-E4b,4-E4b,treble,r4,ees,',4,r4 ees'4,r4,ees4,ees'4,ees''4,r4 ees4 ees'4 ees''4,r4 \hideNotes ees4 ees'4 ees''4,,,,,,r2,,,,,r1,r1
+78,44,E4,0,4,E4,078-44-4-treble-E4,4-E4,treble,r4,e,',4,r4 e'4,r4,e4,e'4,e''4,r4 e4 e'4 e''4,r4 \hideNotes e4 e'4 e''4,,,,,,r2,,,,,r1,r1
+80,45,F4,0,4,F4,080-45-4-treble-F4,4-F4,treble,r4,f,',4,r4 f'4,r4,f4,f'4,f''4,r4 f4 f'4 f''4,r4 \hideNotes f4 f'4 f''4,,,,,,r2,,,,,r1,r1
+81,46,F4#,0,4,F4#,081-46-4-treble-F4#,4-F4#,treble,r4,fis,',4,r4 fis'4,r4,fis4,fis'4,fis''4,r4 fis4 fis'4 fis''4,r4 \hideNotes fis4 fis'4 fis''4,,,,,,r2,,,,,r1,r1
+84,46,G4b,0,4,G4b,084-46-4-treble-G4b,4-G4b,treble,r4,ges,',4,r4 ges'4,r4,ges4,ges'4,ges''4,r4 ges4 ges'4 ges''4,r4 \hideNotes ges4 ges'4 ges''4,,,,,,r2,,,,,r1,r1
+82,47,G4,0,4,G4,082-47-4-treble-G4,4-G4,treble,r4,g,',4,r4 g'4,r4,g4,g'4,g''4,r4 g4 g'4 g''4,r4 \hideNotes g4 g'4 g''4,,,,,,r2,,,,,r1,r1
+83,48,G4#,0,4,G4#,083-48-4-treble-G4#,4-G4#,treble,r4,gis,',4,r4 gis'4,r4,gis4,gis'4,gis''4,r4 gis4 gis'4 gis''4,r4 \hideNotes gis4 gis'4 gis''4,,,,,,r2,,,,,r1,r1
+87,48,A4b,0,4,A4b,087-48-4-treble-A4b,4-A4b,treble,r4,aes,',4,r4 aes'4,r4,aes4,aes'4,aes''4,r4 aes4 aes'4 aes''4,r4 \hideNotes aes4 aes'4 aes''4,,,,,,r2,,,,,r1,r1
+85,49,A4,0,4,A4,085-49-4-treble-A4,4-A4,treble,r4,a,',4,r4 a'4,r4,a4,a'4,a''4,r4 a4 a'4 a''4,r4 \hideNotes a4 a'4 a''4,,,,,,r2,,,,,r1,r1
+86,50,A4#,0,4,A4#,086-50-4-treble-A4#,4-A4#,treble,r4,ais,',4,r4 ais'4,r4,ais4,ais'4,ais''4,r4 ais4 ais'4 ais''4,r4 \hideNotes ais4 ais'4 ais''4,,,,,,r2,,,,,r1,r1
+89,50,B4b,0,4,B4b,089-50-4-treble-B4b,4-B4b,treble,r4,bes,',4,r4 bes'4,r4,bes4,bes'4,bes''4,r4 bes4 bes'4 bes''4,r4 \hideNotes bes4 bes'4 bes''4,,,,,,r2,,,,,r1,r1
+88,51,B4,0,4,B4,088-51-4-treble-B4,4-B4,treble,r4,b,',4,r4 b'4,r4,b4,b'4,b''4,r4 b4 b'4 b''4,r4 \hideNotes b4 b'4 b''4,,,,,,r2,,,,,r1,r1
+90,40,C4,1,4,C4,090-40-4-bass-C4,4-C4,bass,,,,,r2,,,,,r1,r1,,r4,c,',4,r4 c'4,r4,c4,c'4,c''4,r4 c4 c'4 c''4,r4 \hideNotes c4 c'4 c''4
+91,41,C4#,1,4,C4#,091-41-4-bass-C4#,4-C4#,bass,,,,,r2,,,,,r1,r1,,r4,cis,',4,r4 cis'4,r4,cis4,cis'4,cis''4,r4 cis4 cis'4 cis''4,r4 \hideNotes cis4 cis'4 cis''4
+94,41,D4b,1,4,D4b,094-41-4-bass-D4b,4-D4b,bass,,,,,r2,,,,,r1,r1,,r4,des,',4,r4 des'4,r4,des4,des'4,des''4,r4 des4 des'4 des''4,r4 \hideNotes des4 des'4 des''4
+92,42,D4,1,4,D4,092-42-4-bass-D4,4-D4,bass,,,,,r2,,,,,r1,r1,,r4,d,',4,r4 d'4,r4,d4,d'4,d''4,r4 d4 d'4 d''4,r4 \hideNotes d4 d'4 d''4
+93,43,D4#,1,4,D4#,093-43-4-bass-D4#,4-D4#,bass,,,,,r2,,,,,r1,r1,,r4,dis,',4,r4 dis'4,r4,dis4,dis'4,dis''4,r4 dis4 dis'4 dis''4,r4 \hideNotes dis4 dis'4 dis''4
+96,43,E4b,1,4,E4b,096-43-4-bass-E4b,4-E4b,bass,,,,,r2,,,,,r1,r1,,r4,ees,',4,r4 ees'4,r4,ees4,ees'4,ees''4,r4 ees4 ees'4 ees''4,r4 \hideNotes ees4 ees'4 ees''4
+95,44,E4,1,4,E4,095-44-4-bass-E4,4-E4,bass,,,,,r2,,,,,r1,r1,,r4,e,',4,r4 e'4,r4,e4,e'4,e''4,r4 e4 e'4 e''4,r4 \hideNotes e4 e'4 e''4
+97,45,F4,1,4,F4,097-45-4-bass-F4,4-F4,bass,,,,,r2,,,,,r1,r1,,r4,f,',4,r4 f'4,r4,f4,f'4,f''4,r4 f4 f'4 f''4,r4 \hideNotes f4 f'4 f''4
+98,46,F4#,1,4,F4#,098-46-4-bass-F4#,4-F4#,bass,,,,,r2,,,,,r1,r1,,r4,fis,',4,r4 fis'4,r4,fis4,fis'4,fis''4,r4 fis4 fis'4 fis''4,r4 \hideNotes fis4 fis'4 fis''4
+101,46,G4b,1,4,G4b,101-46-4-bass-G4b,4-G4b,bass,,,,,r2,,,,,r1,r1,,r4,ges,',4,r4 ges'4,r4,ges4,ges'4,ges''4,r4 ges4 ges'4 ges''4,r4 \hideNotes ges4 ges'4 ges''4
+99,47,G4,1,4,G4,099-47-4-bass-G4,4-G4,bass,,,,,r2,,,,,r1,r1,,r4,g,',4,r4 g'4,r4,g4,g'4,g''4,r4 g4 g'4 g''4,r4 \hideNotes g4 g'4 g''4
+100,48,G4#,1,4,G4#,100-48-4-bass-G4#,4-G4#,bass,,,,,r2,,,,,r1,r1,,r4,gis,',4,r4 gis'4,r4,gis4,gis'4,gis''4,r4 gis4 gis'4 gis''4,r4 \hideNotes gis4 gis'4 gis''4
+104,48,A4b,1,4,A4b,104-48-4-bass-A4b,4-A4b,bass,,,,,r2,,,,,r1,r1,,r4,aes,',4,r4 aes'4,r4,aes4,aes'4,aes''4,r4 aes4 aes'4 aes''4,r4 \hideNotes aes4 aes'4 aes''4
+102,49,A4,1,4,A4,102-49-4-bass-A4,4-A4,bass,,,,,r2,,,,,r1,r1,,r4,a,',4,r4 a'4,r4,a4,a'4,a''4,r4 a4 a'4 a''4,r4 \hideNotes a4 a'4 a''4
+103,50,A4#,1,4,A4#,103-50-4-bass-A4#,4-A4#,bass,,,,,r2,,,,,r1,r1,,r4,ais,',4,r4 ais'4,r4,ais4,ais'4,ais''4,r4 ais4 ais'4 ais''4,r4 \hideNotes ais4 ais'4 ais''4
+106,50,B4b,1,4,B4b,106-50-4-bass-B4b,4-B4b,bass,,,,,r2,,,,,r1,r1,,r4,bes,',4,r4 bes'4,r4,bes4,bes'4,bes''4,r4 bes4 bes'4 bes''4,r4 \hideNotes bes4 bes'4 bes''4
+105,51,B4,1,4,B4,105-51-4-bass-B4,4-B4,bass,,,,,r2,,,,,r1,r1,,r4,b,',4,r4 b'4,r4,b4,b'4,b''4,r4 b4 b'4 b''4,r4 \hideNotes b4 b'4 b''4
+107,52,C5,1,5,C5,107-52-5-bass-C5,5-C5,bass,,,,,r2,,,,,r1,r1,,r4,c,'',4,r4 c''4,r4,c'4,c''4,c'''4,r4 c'4 c''4 c'''4,r4 \hideNotes c'4 c''4 c'''4
+108,53,C5#,1,5,C5#,108-53-5-bass-C5#,5-C5#,bass,,,,,r2,,,,,r1,r1,,r4,cis,'',4,r4 cis''4,r4,cis'4,cis''4,cis'''4,r4 cis'4 cis''4 cis'''4,r4 \hideNotes cis'4 cis''4 cis'''4
+109,52,C5,0,5,C5,109-52-5-treble-C5,5-C5,treble,r4,c,'',4,r4 c''4,r4,c'4,c''4,c'''4,r4 c'4 c''4 c'''4,r4 \hideNotes c'4 c''4 c'''4,,,,,,r2,,,,,r1,r1
+110,53,C5#,0,5,C5#,110-53-5-treble-C5#,5-C5#,treble,r4,cis,'',4,r4 cis''4,r4,cis'4,cis''4,cis'''4,r4 cis'4 cis''4 cis'''4,r4 \hideNotes cis'4 cis''4 cis'''4,,,,,,r2,,,,,r1,r1
+113,53,D5b,0,5,D5b,113-53-5-treble-D5b,5-D5b,treble,r4,des,'',4,r4 des''4,r4,des'4,des''4,des'''4,r4 des'4 des''4 des'''4,r4 \hideNotes des'4 des''4 des'''4,,,,,,r2,,,,,r1,r1
+111,54,D5,0,5,D5,111-54-5-treble-D5,5-D5,treble,r4,d,'',4,r4 d''4,r4,d'4,d''4,d'''4,r4 d'4 d''4 d'''4,r4 \hideNotes d'4 d''4 d'''4,,,,,,r2,,,,,r1,r1
+112,55,D5#,0,5,D5#,112-55-5-treble-D5#,5-D5#,treble,r4,dis,'',4,r4 dis''4,r4,dis'4,dis''4,dis'''4,r4 dis'4 dis''4 dis'''4,r4 \hideNotes dis'4 dis''4 dis'''4,,,,,,r2,,,,,r1,r1
+115,55,E5b,0,5,E5b,115-55-5-treble-E5b,5-E5b,treble,r4,ees,'',4,r4 ees''4,r4,ees'4,ees''4,ees'''4,r4 ees'4 ees''4 ees'''4,r4 \hideNotes ees'4 ees''4 ees'''4,,,,,,r2,,,,,r1,r1
+114,56,E5,0,5,E5,114-56-5-treble-E5,5-E5,treble,r4,e,'',4,r4 e''4,r4,e'4,e''4,e'''4,r4 e'4 e''4 e'''4,r4 \hideNotes e'4 e''4 e'''4,,,,,,r2,,,,,r1,r1
+116,57,F5,0,5,F5,116-57-5-treble-F5,5-F5,treble,r4,f,'',4,r4 f''4,r4,f'4,f''4,f'''4,r4 f'4 f''4 f'''4,r4 \hideNotes f'4 f''4 f'''4,,,,,,r2,,,,,r1,r1
+117,58,F5#,0,5,F5#,117-58-5-treble-F5#,5-F5#,treble,r4,fis,'',4,r4 fis''4,r4,fis'4,fis''4,fis'''4,r4 fis'4 fis''4 fis'''4,r4 \hideNotes fis'4 fis''4 fis'''4,,,,,,r2,,,,,r1,r1
+120,58,G5b,0,5,G5b,120-58-5-treble-G5b,5-G5b,treble,r4,ges,'',4,r4 ges''4,r4,ges'4,ges''4,ges'''4,r4 ges'4 ges''4 ges'''4,r4 \hideNotes ges'4 ges''4 ges'''4,,,,,,r2,,,,,r1,r1
+118,59,G5,0,5,G5,118-59-5-treble-G5,5-G5,treble,r4,g,'',4,r4 g''4,r4,g'4,g''4,g'''4,r4 g'4 g''4 g'''4,r4 \hideNotes g'4 g''4 g'''4,,,,,,r2,,,,,r1,r1
+119,60,G5#,0,5,G5#,119-60-5-treble-G5#,5-G5#,treble,r4,gis,'',4,r4 gis''4,r4,gis'4,gis''4,gis'''4,r4 gis'4 gis''4 gis'''4,r4 \hideNotes gis'4 gis''4 gis'''4,,,,,,r2,,,,,r1,r1
+123,60,A5b,0,5,A5b,123-60-5-treble-A5b,5-A5b,treble,r4,aes,'',4,r4 aes''4,r4,aes'4,aes''4,aes'''4,r4 aes'4 aes''4 aes'''4,r4 \hideNotes aes'4 aes''4 aes'''4,,,,,,r2,,,,,r1,r1
+121,61,A5,0,5,A5,121-61-5-treble-A5,5-A5,treble,r4,a,'',4,r4 a''4,r4,a'4,a''4,a'''4,r4 a'4 a''4 a'''4,r4 \hideNotes a'4 a''4 a'''4,,,,,,r2,,,,,r1,r1
+122,62,A5#,0,5,A5#,122-62-5-treble-A5#,5-A5#,treble,r4,ais,'',4,r4 ais''4,r4,ais'4,ais''4,ais'''4,r4 ais'4 ais''4 ais'''4,r4 \hideNotes ais'4 ais''4 ais'''4,,,,,,r2,,,,,r1,r1
+125,62,B5b,0,5,B5b,125-62-5-treble-B5b,5-B5b,treble,r4,bes,'',4,r4 bes''4,r4,bes'4,bes''4,bes'''4,r4 bes'4 bes''4 bes'''4,r4 \hideNotes bes'4 bes''4 bes'''4,,,,,,r2,,,,,r1,r1
+124,63,B5,0,5,B5,124-63-5-treble-B5,5-B5,treble,r4,b,'',4,r4 b''4,r4,b'4,b''4,b'''4,r4 b'4 b''4 b'''4,r4 \hideNotes b'4 b''4 b'''4,,,,,,r2,,,,,r1,r1
+126,64,C6,1,6,C6,126-64-6-treble-C6,6-C6,treble,r4,c,''',4,r4 c'''4,r4,c''4,c'''4,c''''4,r4 c''4 c'''4 c''''4,r4 \hideNotes c''4 c'''4 c''''4,,,,,,r2,,,,,r1,r1
+127,65,C6#,1,6,C6#,127-65-6-treble-C6#,6-C6#,treble,r4,cis,''',4,r4 cis'''4,r4,cis''4,cis'''4,cis''''4,r4 cis''4 cis'''4 cis''''4,r4 \hideNotes cis''4 cis'''4 cis''''4,,,,,,r2,,,,,r1,r1
+130,65,D6b,1,6,D6b,130-65-6-treble-D6b,6-D6b,treble,r4,des,''',4,r4 des'''4,r4,des''4,des'''4,des''''4,r4 des''4 des'''4 des''''4,r4 \hideNotes des''4 des'''4 des''''4,,,,,,r2,,,,,r1,r1
+128,66,D6,1,6,D6,128-66-6-treble-D6,6-D6,treble,r4,d,''',4,r4 d'''4,r4,d''4,d'''4,d''''4,r4 d''4 d'''4 d''''4,r4 \hideNotes d''4 d'''4 d''''4,,,,,,r2,,,,,r1,r1
+129,67,D6#,1,6,D6#,129-67-6-treble-D6#,6-D6#,treble,r4,dis,''',4,r4 dis'''4,r4,dis''4,dis'''4,dis''''4,r4 dis''4 dis'''4 dis''''4,r4 \hideNotes dis''4 dis'''4 dis''''4,,,,,,r2,,,,,r1,r1
+132,67,E6b,1,6,E6b,132-67-6-treble-E6b,6-E6b,treble,r4,ees,''',4,r4 ees'''4,r4,ees''4,ees'''4,ees''''4,r4 ees''4 ees'''4 ees''''4,r4 \hideNotes ees''4 ees'''4 ees''''4,,,,,,r2,,,,,r1,r1
+131,68,E6,1,6,E6,131-68-6-treble-E6,6-E6,treble,r4,e,''',4,r4 e'''4,r4,e''4,e'''4,e''''4,r4 e''4 e'''4 e''''4,r4 \hideNotes e''4 e'''4 e''''4,,,,,,r2,,,,,r1,r1
+133,69,F6,1,6,F6,133-69-6-treble-F6,6-F6,treble,r4,f,''',4,r4 f'''4,r4,f''4,f'''4,f''''4,r4 f''4 f'''4 f''''4,r4 \hideNotes f''4 f'''4 f''''4,,,,,,r2,,,,,r1,r1
+134,70,F6#,1,6,F6#,134-70-6-treble-F6#,6-F6#,treble,r4,fis,''',4,r4 fis'''4,r4,fis''4,fis'''4,fis''''4,r4 fis''4 fis'''4 fis''''4,r4 \hideNotes fis''4 fis'''4 fis''''4,,,,,,r2,,,,,r1,r1
+137,70,G6b,1,6,G6b,137-70-6-treble-G6b,6-G6b,treble,r4,ges,''',4,r4 ges'''4,r4,ges''4,ges'''4,ges''''4,r4 ges''4 ges'''4 ges''''4,r4 \hideNotes ges''4 ges'''4 ges''''4,,,,,,r2,,,,,r1,r1
+135,71,G6,1,6,G6,135-71-6-treble-G6,6-G6,treble,r4,g,''',4,r4 g'''4,r4,g''4,g'''4,g''''4,r4 g''4 g'''4 g''''4,r4 \hideNotes g''4 g'''4 g''''4,,,,,,r2,,,,,r1,r1
+136,72,G6#,1,6,G6#,136-72-6-treble-G6#,6-G6#,treble,r4,gis,''',4,r4 gis'''4,r4,gis''4,gis'''4,gis''''4,r4 gis''4 gis'''4 gis''''4,r4 \hideNotes gis''4 gis'''4 gis''''4,,,,,,r2,,,,,r1,r1
+140,72,A6b,1,6,A6b,140-72-6-treble-A6b,6-A6b,treble,r4,aes,''',4,r4 aes'''4,r4,aes''4,aes'''4,aes''''4,r4 aes''4 aes'''4 aes''''4,r4 \hideNotes aes''4 aes'''4 aes''''4,,,,,,r2,,,,,r1,r1
+138,73,A6,1,6,A6,138-73-6-treble-A6,6-A6,treble,r4,a,''',4,r4 a'''4,r4,a''4,a'''4,a''''4,r4 a''4 a'''4 a''''4,r4 \hideNotes a''4 a'''4 a''''4,,,,,,r2,,,,,r1,r1
+139,74,A6#,1,6,A6#,139-74-6-treble-A6#,6-A6#,treble,r4,ais,''',4,r4 ais'''4,r4,ais''4,ais'''4,ais''''4,r4 ais''4 ais'''4 ais''''4,r4 \hideNotes ais''4 ais'''4 ais''''4,,,,,,r2,,,,,r1,r1
+142,74,B6b,1,6,B6b,142-74-6-treble-B6b,6-B6b,treble,r4,bes,''',4,r4 bes'''4,r4,bes''4,bes'''4,bes''''4,r4 bes''4 bes'''4 bes''''4,r4 \hideNotes bes''4 bes'''4 bes''''4,,,,,,r2,,,,,r1,r1
+141,75,B6,1,6,B6,141-75-6-treble-B6,6-B6,treble,r4,b,''',4,r4 b'''4,r4,b''4,b'''4,b''''4,r4 b''4 b'''4 b''''4,r4 \hideNotes b''4 b'''4 b''''4,,,,,,r2,,,,,r1,r1
+143,76,C7,3,7,C7,143-76-7-treble-C7,7-C7,treble,r4,c,'''',4,r4 c''''4,r4,c''4,c'''4,c''''4,r4 c''4 c'''4 c''''4,r4 \hideNotes c''4 c'''4 c''''4,,,,,,r2,,,,,r1,r1
+144,77,C7#,3,7,C7#,144-77-7-treble-C7#,7-C7#,treble,r4,cis,'''',4,r4 cis''''4,r4,cis''4,cis'''4,cis''''4,r4 cis''4 cis'''4 cis''''4,r4 \hideNotes cis''4 cis'''4 cis''''4,,,,,,r2,,,,,r1,r1
+147,77,D7b,3,7,D7b,147-77-7-treble-D7b,7-D7b,treble,r4,des,'''',4,r4 des''''4,r4,des''4,des'''4,des''''4,r4 des''4 des'''4 des''''4,r4 \hideNotes des''4 des'''4 des''''4,,,,,,r2,,,,,r1,r1
+145,78,D7,3,7,D7,145-78-7-treble-D7,7-D7,treble,r4,d,'''',4,r4 d''''4,r4,d''4,d'''4,d''''4,r4 d''4 d'''4 d''''4,r4 \hideNotes d''4 d'''4 d''''4,,,,,,r2,,,,,r1,r1
+146,79,D7#,3,7,D7#,146-79-7-treble-D7#,7-D7#,treble,r4,dis,'''',4,r4 dis''''4,r4,dis''4,dis'''4,dis''''4,r4 dis''4 dis'''4 dis''''4,r4 \hideNotes dis''4 dis'''4 dis''''4,,,,,,r2,,,,,r1,r1
+149,79,E7b,3,7,E7b,149-79-7-treble-E7b,7-E7b,treble,r4,ees,'''',4,r4 ees''''4,r4,ees''4,ees'''4,ees''''4,r4 ees''4 ees'''4 ees''''4,r4 \hideNotes ees''4 ees'''4 ees''''4,,,,,,r2,,,,,r1,r1
+148,80,E7,3,7,E7,148-80-7-treble-E7,7-E7,treble,r4,e,'''',4,r4 e''''4,r4,e''4,e'''4,e''''4,r4 e''4 e'''4 e''''4,r4 \hideNotes e''4 e'''4 e''''4,,,,,,r2,,,,,r1,r1
+150,81,F7,3,7,F7,150-81-7-treble-F7,7-F7,treble,r4,f,'''',4,r4 f''''4,r4,f''4,f'''4,f''''4,r4 f''4 f'''4 f''''4,r4 \hideNotes f''4 f'''4 f''''4,,,,,,r2,,,,,r1,r1
+151,82,F7#,3,7,F7#,151-82-7-treble-F7#,7-F7#,treble,r4,fis,'''',4,r4 fis''''4,r4,fis''4,fis'''4,fis''''4,r4 fis''4 fis'''4 fis''''4,r4 \hideNotes fis''4 fis'''4 fis''''4,,,,,,r2,,,,,r1,r1
+154,82,G7b,3,7,G7b,154-82-7-treble-G7b,7-G7b,treble,r4,ges,'''',4,r4 ges''''4,r4,ges''4,ges'''4,ges''''4,r4 ges''4 ges'''4 ges''''4,r4 \hideNotes ges''4 ges'''4 ges''''4,,,,,,r2,,,,,r1,r1
+152,83,G7,3,7,G7,152-83-7-treble-G7,7-G7,treble,r4,g,'''',4,r4 g''''4,r4,g''4,g'''4,g''''4,r4 g''4 g'''4 g''''4,r4 \hideNotes g''4 g'''4 g''''4,,,,,,r2,,,,,r1,r1
+153,84,G7#,3,7,G7#,153-84-7-treble-G7#,7-G7#,treble,r4,gis,'''',4,r4 gis''''4,r4,gis''4,gis'''4,gis''''4,r4 gis''4 gis'''4 gis''''4,r4 \hideNotes gis''4 gis'''4 gis''''4,,,,,,r2,,,,,r1,r1
+157,84,A7b,3,7,A7b,157-84-7-treble-A7b,7-A7b,treble,r4,aes,'''',4,r4 aes''''4,r4,aes''4,aes'''4,aes''''4,r4 aes''4 aes'''4 aes''''4,r4 \hideNotes aes''4 aes'''4 aes''''4,,,,,,r2,,,,,r1,r1
+155,85,A7,3,7,A7,155-85-7-treble-A7,7-A7,treble,r4,a,'''',4,r4 a''''4,r4,a''4,a'''4,a''''4,r4 a''4 a'''4 a''''4,r4 \hideNotes a''4 a'''4 a''''4,,,,,,r2,,,,,r1,r1
+156,86,A7#,3,7,A7#,156-86-7-treble-A7#,7-A7#,treble,r4,ais,'''',4,r4 ais''''4,r4,ais''4,ais'''4,ais''''4,r4 ais''4 ais'''4 ais''''4,r4 \hideNotes ais''4 ais'''4 ais''''4,,,,,,r2,,,,,r1,r1
+159,86,B7b,3,7,B7b,159-86-7-treble-B7b,7-B7b,treble,r4,bes,'''',4,r4 bes''''4,r4,bes''4,bes'''4,bes''''4,r4 bes''4 bes'''4 bes''''4,r4 \hideNotes bes''4 bes'''4 bes''''4,,,,,,r2,,,,,r1,r1
+158,87,B7,3,7,B7,158-87-7-treble-B7,7-B7,treble,r4,b,'''',4,r4 b''''4,r4,b''4,b'''4,b''''4,r4 b''4 b'''4 b''''4,r4 \hideNotes b''4 b'''4 b''''4,,,,,,r2,,,,,r1,r1
+160,88,C8,3,8,C8,160-88-8-treble-C8,8-C8,treble,r4,c,''''',4,r4 c'''''4,r4,c'''4,c''''4,c'''''4,r4 c'''4 c''''4 c'''''4,r4 \hideNotes c'''4 c''''4 c'''''4,,,,,,r2,,,,,r1,r1

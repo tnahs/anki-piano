@@ -6,36 +6,63 @@ SOUNDFONT=$CURRENTDIR"/soundfonts/GeneralUser-GS-1.471/GeneralUser-GS-v1.471.sf2
 
 # TODO: Place TEMPDIR and SOUNDFONT checks.
 
-for file in $CURRENTDIR"/lilypond/piano_notes_ly/"*; do
+function run_script {
 
-    filename=${file##*/}
-    basename=${filename%%.*}
+    for file in $CURRENTDIR"/lilypond/score-${side}-ly/"*; do
 
-    # Generate .pdf and .midi file from .ly file and place into temp directory
-    lilypond --output=$TEMPDIR \
-        $CURRENTDIR"/lilypond/piano_notes_ly/${basename}.ly"
+        filename=${file##*/}
+        basename=${filename%%.*}
 
-    # Process image
+        # Generate .pdf and .midi file from .ly file and place into temp directory
+        lilypond --output=$TEMPDIR \
+            $CURRENTDIR"/lilypond/score-${side}-ly/${basename}.ly"
 
-    # Convert .pdf to .png with 300dpi and trimmed whitespace
-    convert -trim -density 300 $TEMPDIR/${basename}".pdf" \
-        $CURRENTDIR"/deck/images/score/${basename}.png"
-    # Remove temp .pdf
-    rm $TEMPDIR/${basename}".pdf"
+        # Process image
 
-    # Process audio
+        # Convert .pdf to .png with 300dpi and trimmed whitespace
+        convert -trim -density 300 $TEMPDIR"/${basename}.pdf" \
+            $CURRENTDIR"/deck/images/score-${side}/piano-score-${side}-${basename}.png"
 
-    # Convert .midi into a .wav
-    fluidsynth -F $TEMPDIR"/${basename}.wav" \
-        $SOUNDFONT \
-        $TEMPDIR"/${basename}.midi"
+        # Remove temp .pdf
+        rm $TEMPDIR/${basename}".pdf"
 
-    # Convery .wav to .mp3
-    lame $TEMPDIR"/${basename}.wav" \
-        $CURRENTDIR"/deck/audio/${basename}.mp3"
 
-    # Remove .midi and .wav
-    rm $TEMPDIR"/${basename}.midi"
-    rm $TEMPDIR"/${basename}.wav"
+        # Process audio
 
-done
+        if [ "${audio}" = "true" ]; then
+
+            # Convert .midi into a .wav
+            fluidsynth -F $TEMPDIR"/${basename}.wav" \
+                $SOUNDFONT \
+                $TEMPDIR"/${basename}.midi"
+
+            # Convery .wav to .mp3
+            lame $TEMPDIR"/${basename}.wav" \
+                $CURRENTDIR"/deck/audio/piano-audio-${basename}.mp3"
+
+            # Remove .wav
+            rm $TEMPDIR"/${basename}.wav"
+        fi
+
+        # Remove .midi and
+        rm $TEMPDIR"/${basename}.midi"
+
+    done
+}
+
+if [[ $# -eq 0 ]] ; then
+
+    echo ""
+    echo "ERROR: Missing an arguent!"
+    echo "bash {scriptname}.sh [side] [audio]"
+    echo "e.g. bash {scriptname}.sh front true"
+    echo ""
+
+    exit 1
+else
+
+    side=$1
+    audio=$2
+
+    run_script
+fi

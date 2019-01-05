@@ -6,7 +6,7 @@ from datetime import datetime
 from jinja2 import Environment, FileSystemLoader
 
 
-def main():
+def main(side):
     """
     {
         "name": "",
@@ -14,8 +14,10 @@ def main():
         "clef": "",
         "treble_note": "",
         "treble_octaves": "",
+        "treble_octaves_hidden": "",
         "bass_note": "",
         "bass_octaves": "",
+        "bass_octaves_hidden": "",
         "order": "",
         "filename": ""
     }
@@ -25,8 +27,9 @@ def main():
     date = datetime.today().strftime("%Y %B %d")
 
     note_data_json = "data/piano-to-lilypond-data.json"
-    template_name = "lilypond/template.jinja2"
-    output_folder_name = "lilypond/piano_notes"
+
+    template_name = f"lilypond/score-{side}-template.jinja2"
+    output_folder_name = f"lilypond/score-{side}-ly"
 
     jinja_env = Environment(
         loader=FileSystemLoader(str(root)),
@@ -51,4 +54,4 @@ def main():
 
 if __name__ == "__main__":
 
-    main()
+    main(side="front")

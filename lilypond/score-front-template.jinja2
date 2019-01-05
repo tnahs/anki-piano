@@ -1,0 +1,53 @@
+%% ----------------------------------------------------------------------------
+%% Generated on: {{ date }}
+%% Note Name: {{ note.name }}
+%% Octave: {{ note.octave }}
+%% Clef: {{ note.clef }}
+%% Filename: {{ note.filename }}
+%% ----------------------------------------------------------------------------
+
+\version "2.19.82"
+
+\include "../piano_note_colors.ly"
+
+\header {
+  tagline = ""
+}
+
+upper = {
+  \clef treble
+  \numericTimeSignature
+  % treble note
+  {{ note.treble_note }}
+  % treble octave (hidden)
+  {{ note.treble_octaves_hidden }}
+  % treble octave (hidden) repeat
+  \unHideNotes
+  {{ note.treble_octaves_hidden }}
+  \bar "|."
+}
+
+lower = {
+  \clef bass
+  \numericTimeSignature
+  % bass note in color
+  {{ note.bass_note }}
+  % bass octave (hidden)
+  {{ note.bass_octaves_hidden }}
+  % bass octave (hidden) repeat
+  \unHideNotes
+  {{ note.bass_octaves_hidden }}
+}
+
+\score {
+  \new PianoStaff <<
+    \context Score
+    \applyContext #(override-color-for-all-grobs default-black)
+    \time 4/4
+    \partial 2
+    \new Staff = upper { \upper }
+    \new Staff = lower { \lower }
+  >>
+  \layout { }
+  \midi { }
+}
