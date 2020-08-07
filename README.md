@@ -1,1 +1,1 @@
-# anki-piano
+# solfege-deck
